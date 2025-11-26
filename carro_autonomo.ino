@@ -10,19 +10,19 @@ const int IN1 = 8;
 const int IN2 = 13;
 const int ENA = 10;
 
-// Ultrasonidos izquierda y derecha (LOS TUYOS)
+// Ultrasonidos izquierda y derecha
 const int TRIG_I = 7;
 const int ECHO_I = 6;
 
 const int TRIG_D = 3;
 const int ECHO_D = 2;
 
-// Ultrasonido frontal (NUEVO)
+// Ultrasonido frontal 
 const int TRIG_F = 5;
 const int ECHO_F = 4; 
 
 // ----------------------------------------------
-// VALORES DEL SERVO (IGUAL QUE ANTES)
+// VALORES DEL SERVO 
 // ----------------------------------------------
 int SERVO_IZQ = 1600;
 int SERVO_CENTRO = 2000;
